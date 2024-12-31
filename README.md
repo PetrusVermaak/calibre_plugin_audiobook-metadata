@@ -17,6 +17,7 @@ Note: To use the duration feature, you must first create a custom column in Cali
 
 The plugin will then automatically populate this column with the audiobook's duration in HH:MM:SS format.
 
+
 **Todo - Update Existing Audio:**
 
 Menu button that extracts metadata and updates audiobooks that were imported before the plugin was installed.
